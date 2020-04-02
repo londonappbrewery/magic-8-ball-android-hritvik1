@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">Magic Eight Ball</string>
+    <string name="app_name">Magic 8 Ball</string>
+    <string name="desc">Make Everyday Decisions Easier!</string>
+    <string name="button_text">ASK</string>
+    <string name="by">~By Hritvik</string>
 </resources>
